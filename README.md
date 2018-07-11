@@ -14,7 +14,7 @@
 			<div class="news-header news-article" data-type="header" style="padding-bottom: 10px; margin: 0px 0px 10px; padding-left: 10px; padding-right: 10px; background: #fff; padding-top: 10px">
 			<h3 class="news-title" style="margin: 0.5em 0px; font-size: 16px; text-align: justify;">&nbsp;</h3>
 
-			<p>親愛的　，您好</p>
+			<p>親愛的貴賓，您好</p>
 
 			<p>首先向您問安。</p>
 
