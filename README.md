@@ -39,7 +39,7 @@
 
 			<p style="margin-left: 40px;">&gt;&gt; 出席回覆表單：<a href="https://goo.gl/forms/RieqR54bnb2IMEGR2" target="_blank"><font color="#0366d6">出席回覆R.S.V.P.</font></a>&nbsp;</p>
 
-			<p style="margin-left: 40px;">▍ 敬請於7月20日(五)前，回覆填寫本表單，以便為您作席次安排。<br />
+			<p style="margin-left: 40px;">▍ 敬請於7月27日(五)前，回覆填寫本表單，以便為您作席次安排。<br />
 			&nbsp; &nbsp;洽詢窗口：陳昱樺小姐 / 02-23213313 / service@tc-chambermusic.org</p>
 
 			<p style="margin-left: 40px;">&nbsp;</p>
